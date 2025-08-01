@@ -25,12 +25,12 @@ La macro simula comandos de radio como:
 
 ## 🔧 Instalación
 
--descargar el spammer.exe
--ejecutar cs 1.6
--abrir la consola y poner el siguiente comando: bind F1 "getout"
--ejecutar el spammer.exe 
--entrar a cualquier server y apretar F1
--si lo queres apagar solo tocas F1 denuevo y listo
+- descargar el spammer.exe
+- ejecutar cs 1.6
+- abrir la consola y poner el siguiente comando: bind F1 "getout"
+- ejecutar el spammer.exe 
+- entrar a cualquier server y apretar F1
+- si lo queres apagar solo tocas F1 denuevo y listo
 
 
 ## CODIGO BY KEYGEN2009 | https://www.youtube.com/@KeyGen2009 
