@@ -38,7 +38,7 @@ La macro simula comandos de radio como:
 ## CODIGO
 
 
-`#include <windows.h>
+#include <windows.h>
 #include <iostream>
 #include <conio.h>
 
@@ -74,7 +74,7 @@ void tecla()
 	tc[1].ki.dwFlags = KEYEVENTF_SCANCODE | KEYEVENTF_KEYUP;
 	
 	SendInput(2,tc,sizeof(INPUT));
-}`
+}
 
 
 
